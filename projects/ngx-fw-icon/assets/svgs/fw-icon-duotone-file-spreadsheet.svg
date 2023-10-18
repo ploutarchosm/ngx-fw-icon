@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+          <symbol id="fw-icon-duotone-file-spreadsheet" viewBox="0 0 384 512">
+            <path d="M384 160L224 0V128c0 17.7 14.3 32 32 32H384zM88 224c-17.7 0-32 14.3-32 32v16 80 64c0 17.7 14.3 32 32 32h64 80 64c17.7 0 32-14.3 32-32V352 272 256c0-17.7-14.3-32-32-32H88zm0 112V288h48v48H88zm80 0V288h48v48H168zm80 0V288h48v48H248zm0 32h48v48H248V368zm-32 0v48H168V368h48zm-80 0v48H88V368h48z"/>
+          </symbol>
+        </svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+          <symbol id="fw-icon-sharp-solid-pager" viewBox="0 0 512 512">
+            <path d="M0 64H512V448H0V64zm64 64V256H448V128H64zM80 320H56v48H80h56 24V320H136 80zm136 0H192v48h24 48 24V320H264 216z"/>
+          </symbol>
+        </svg>

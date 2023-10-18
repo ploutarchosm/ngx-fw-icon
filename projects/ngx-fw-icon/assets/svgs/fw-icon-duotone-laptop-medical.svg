@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+          <symbol id="fw-icon-duotone-laptop-medical" viewBox="0 0 640 512">
+            <path d="M512 96H128V352H512V96zM288 144c0-8.8 7.2-16 16-16h32c8.8 0 16 7.2 16 16v48h48c8.8 0 16 7.2 16 16v32c0 8.8-7.2 16-16 16H352v48c0 8.8-7.2 16-16 16H304c-8.8 0-16-7.2-16-16V256H240c-8.8 0-16-7.2-16-16V208c0-8.8 7.2-16 16-16l48 0V144z"/>
+          </symbol>
+        </svg>

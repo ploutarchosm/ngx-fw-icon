@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+          <symbol id="fw-icon-sharp-solid-meter" viewBox="0 0 512 512">
+            <path d="M256 512A256 256 0 1 0 256 0a256 256 0 1 0 0 512zM192 160v32 32H128V192 160 128h64v32zm96 0v32 32H224V192 160 128h64v32zm96 0v32 32H320V192 160 128h64v32z"/>
+          </symbol>
+        </svg>

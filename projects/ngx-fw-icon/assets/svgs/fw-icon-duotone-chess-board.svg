@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+          <symbol id="fw-icon-duotone-chess-board" viewBox="0 0 448 512">
+            <path d="M192 96H128v64H64v64h64v64H64v64h64v64h64V352h64v64h64V352h64V288H320V224h64V160H320V96H256v64H192V96zm0 128H128V160h64v64zm64 0v64h64v64H256V288H192v64H128V288h64V224h64zm0 0V160h64v64H256z"/>
+          </symbol>
+        </svg>
