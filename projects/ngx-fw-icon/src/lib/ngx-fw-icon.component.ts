@@ -5,7 +5,7 @@ import { SvgSize } from './ngx-fw-icon.sizes';
 
 @Component({
   selector: 'ngx-fw-icon',
-  template: ` <svg
+  template: `<svg
     [class]="size"
     xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -21,7 +21,7 @@ export class NgxFwIconComponent implements OnInit {
   @Input({ required: true }) size: SvgSize;
   @Input({ required: true }) type: NgxFwTypes;
 
-  protected link: string = '';
+  protected link = '';
 
   ngOnInit(): void {
     this.link = `/assets/svgs/${this.type}.svg#${this.type}`;

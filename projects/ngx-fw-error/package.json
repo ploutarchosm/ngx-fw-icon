@@ -1,5 +1,5 @@
 {
-  "name": "@ploutarchosm/ngx-fw-icon",
+  "name": "ngx-fw-error",
   "version": "0.0.1",
   "peerDependencies": {
     "@angular/common": "^16.1.0",
